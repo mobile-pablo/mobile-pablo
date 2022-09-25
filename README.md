@@ -16,7 +16,7 @@
   <h3 align="center">🎵 Altas Notas 🎵<h3>
   <h4 align="center">Music Player based on Firebase Services</h4>
   <a href="https://github.com/polonez-byte-112/Altas-Notas">
-  <img src="https://github.com/polonez-byte-112/Altas-Notas/blob/master/readme_media/mockup_two.png" width="100%"/>
+  <img src="altas_notas.png" width="100%"/>
   </a>
   <hr/> 
   <h3 align="center">☁️ Weather Forecast ☁️<h3>
