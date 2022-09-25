@@ -13,7 +13,7 @@
 ## 💻 Projects
 
   <hr/> 
-  <h3 align="center">🎵 Altas Notas 🎵<h3>
+  <h3 align="center">🎵 Altas Notas 🎵 (Private)<h3>
   <h4 align="center">Music Player based on Firebase Services</h4>
   <a href="https://github.com/polonez-byte-112/Altas-Notas">
   <img src="altas_notas.png" width="100%"/>
