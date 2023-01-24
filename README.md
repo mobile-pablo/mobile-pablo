@@ -1,5 +1,4 @@
 
-<a href="https://www.facebook.com/pawel.lukasz01/"><img src="mobile_pablo_banner.png" width="100%"/></a>
 ##  🏘️ Greetings   ![](https://komarev.com/ghpvc/?username=polonez-byte-112e&color=green)    
 
 <div align="center">
