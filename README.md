@@ -1,14 +1,4 @@
 
-##  🏘️ Greetings   ![](https://komarev.com/ghpvc/?username=polonez-byte-112e&color=green)    
-
-<div align="center">
-<img src="introduction_img.png" width="70%"/>
-</div>
-
-<br/> <br/>
-
-## 📗 Blog  <a href="https://pawellukasz001.wixsite.com/blog">Mobile Pablo</a>
-
 ## 💻 Projects
 
   <hr/> 
