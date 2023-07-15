@@ -14,5 +14,5 @@
   <img src="https://github.com/polonez-byte-112/Weather-Forecast/blob/master/readme_media/google_play_background.png" width="100%"/>
   </a>
   <hr/>
-  <h3 align="center"> iOS Notes <h3>
+  <h3 align="center"> TikTok - TV <h3>
   <h5 align="center">In progress<h5>
