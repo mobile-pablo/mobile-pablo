@@ -26,16 +26,16 @@
 </thead>
 <tbody>
   <tr>
-    <td><img  src="https://github.com/mobile-pablo/Youtube/tree/master/readme_assets/loading_screen_light.png" /></td>
-    <td><img  src="https://github.com/mobile-pablo/Youtube/tree/master/readme_assets/loading_screen_dark.png" /></td>
+    <td><img  src="https://github.com/mobile-pablo/Youtube/blob/master/readme_assets/loading_screen_light.png" /></td>
+    <td><img  src="https://github.com/mobile-pablo/Youtube/blob/master/readme_assets/loading_screen_dark.png" /></td>
   </tr>
   <tr>
-    <td><img  src="https://github.com/mobile-pablo/Youtube/tree/master/readme_assets/loaded_popular_screen_light.png" /></td>
-    <td><img  src="https://github.com/mobile-pablo/Youtube/tree/master/readme_assets/loaded_popular_screen_dark.png" /></td>
+    <td><img  src="https://github.com/mobile-pablo/Youtube/blob/master/readme_assets/loaded_popular_screen_light.png" /></td>
+    <td><img  src="https://github.com/mobile-pablo/Youtube/blob/master/readme_assets/loaded_popular_screen_dark.png" /></td>
   </tr>
 <tr>
-    <td><img  src="https://github.com/mobile-pablo/Youtube/tree/master/readme_assets/player_screen_light.png"  /></td>
-    <td><img  src="https://github.com/mobile-pablo/Youtube/tree/master/readme_assets/player_screen_dark.png" /></td>
+    <td><img  src="https://github.com/mobile-pablo/Youtube/blob/master/readme_assets/player_screen_light.png"  /></td>
+    <td><img  src="https://github.com/mobile-pablo/Youtube/blob/master/readme_assets/player_screen_dark.png" /></td>
 </tr>
 </tbody>
 </table>
