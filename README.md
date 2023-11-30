@@ -16,6 +16,7 @@
   <hr/>
   <h3 align="center"> Youtube - TV <h3>
   <h5 align="center">In progress<h5>
+    <div align="center">
   <table border="1">
 <thead>
   <tr>
@@ -38,3 +39,4 @@
 </tr>
 </tbody>
 </table>
+    </div>
