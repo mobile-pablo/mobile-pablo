@@ -16,3 +16,25 @@
   <hr/>
   <h3 align="center"> Youtube - TV <h3>
   <h5 align="center">In progress<h5>
+  <table border="1">
+<thead>
+  <tr>
+    <th>Light mode</th>
+    <th>Dark mode</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img  src="https://github.com/mobile-pablo/Youtube/tree/master/readme_assets/loading_screen_light.png" /></td>
+    <td><img  src="https://github.com/mobile-pablo/Youtube/tree/master/readme_assets/loading_screen_dark.png" /></td>
+  </tr>
+  <tr>
+    <td><img  src="https://github.com/mobile-pablo/Youtube/tree/master/readme_assets/loaded_popular_screen_light.png" /></td>
+    <td><img  src="https://github.com/mobile-pablo/Youtube/tree/master/readme_assets/loaded_popular_screen_dark.png" /></td>
+  </tr>
+<tr>
+    <td><img  src="https://github.com/mobile-pablo/Youtube/tree/master/readme_assets/player_screen_light.png"  /></td>
+    <td><img  src="https://github.com/mobile-pablo/Youtube/tree/master/readme_assets/player_screen_dark.png" /></td>
+</tr>
+</tbody>
+</table>
